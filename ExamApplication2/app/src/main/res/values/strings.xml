@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">ExamApplication2</string>
+    <string name="FirstName">First Name :</string>
+    <string name="FamilyName">Family Name :</string>
+    <string name="notes">Enter the subject\'s name + grade :</string>
+
+    <string name="save">SAVE</string>
+    <string name="ADD">Add Material</string>
+
+    <string name="fname">First Name :</string>
+    <string name="faname">Family Name :</string>
+    <string name="average">Average :</string>
+
+    <string name="subjectName">Subject Name </string>
+    <string name="Grade">Grade out of 100</string>
+
+    <string name="Delete">Delete All Materials</string>
+    <string name="DeleteMaterial">Delete Material</string>
+
+
+    <string name="appname">Average Calculator</string>
+
+    <string name="deleteMaterial">Name of the Material to be deleted</string>
+
+</resources>
